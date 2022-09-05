@@ -1,12 +1,9 @@
 ## About Me:
 
-I am a Full Stack Developer from Toronto, Ontario, Canada.
+Ambitious Full Stack Developer from Toronto, Ontario, Canada.
 
-🔭 I am a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything and everything that can be classified as technology💻 fascinates me. 
-
-🌱 I currently live in Toronto 🌉 and have recently completed Certification in Full Stack Web Development📈 from University of Toronto.
-
-⚡ I follow a number of Tech Blogs🖱️. Other than that, I love solving puzzles🧩 and riding bike.
+💻Focused, passionate, dedicated and perceptive developer with an action oriented to challenging and an unending desire to learn and progress. Anything and everything that can be classified as technology fascinates me. Recently completed Certification in Full Stack Web Development from University of Toronto.
+Loves to take up new projects and challenge myself to meet the deadlines.
 
 ---
 

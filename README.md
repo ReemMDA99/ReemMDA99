@@ -1,13 +1,13 @@
-## About Me:
+## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:
 
-Ambitious Full Stack Developer from Toronto, Ontario, Canada.
+ᴀᴍʙɪᴛɪᴏᴜꜱ 𝕱𝖚𝖑𝖑 𝕾𝖙𝖆𝖈𝖐 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 💻 ꜰʀᴏᴍ 𝕿𝖔𝖗𝖔𝖓𝖙𝖔, 𝕮𝖆𝖓𝖆𝖉𝖆.
 
-💻Focused, passionate, dedicated and perceptive developer with an action oriented to challenging and an unending desire to learn and progress. Anything and everything that can be classified as technology fascinates me. Recently completed Certification in Full Stack Web Development from University of Toronto.
-Loves to take up new projects and challenge myself to meet the deadlines.
-
+ꜰᴏᴄᴜꜱᴇᴅ, ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ, ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴀɴᴅ ᴘᴇʀᴄᴇᴘᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴀɴ ᴀᴄᴛɪᴏɴ ᴏʀɪᴇɴᴛᴇᴅ ᴛᴏ ᴄʜᴀʟʟᴇɴɢɪɴɢ ᴀɴᴅ ᴀɴ ᴜɴᴇɴᴅɪɴɢ ᴅᴇꜱɪʀᴇ ᴛᴏ ʟᴇᴀʀɴ ᴀɴᴅ ᴘʀᴏɢʀᴇꜱꜱ.👩‍💻
+ ᴀɴʏᴛʜɪɴɢ ᴀɴᴅ ᴇᴠᴇʀʏᴛʜɪɴɢ ᴛʜᴀᴛ ᴄᴀɴ ʙᴇ ᴄʟᴀꜱꜱɪꜰɪᴇᴅ ᴀꜱ ᴛᴇᴄʜɴᴏʟᴏɢʏ ꜰᴀꜱᴄɪɴᴀᴛᴇꜱ ᴍᴇ. ʀᴇᴄᴇɴᴛʟʏ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴ ɪɴ 𝕱𝖚𝖑𝖑 𝕾𝖙𝖆𝖈𝖐 𝖂𝖊𝖇 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙 ꜰʀᴏᴍ 𝖀𝖓𝖎𝖛𝖊𝖗𝖘𝖎𝖙𝖞 𝖔𝖋 𝕿𝖔𝖗𝖔𝖓𝖙𝖔.
+ʟᴏᴠᴇꜱ ᴛᴏ ᴛᴀᴋᴇ ᴜᴘ ɴᴇᴡ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀɴᴅ ᴄʜᴀʟʟᴇɴɢᴇ ᴍʏꜱᴇʟꜰ ᴛᴏ ᴍᴇᴇᴛ ᴛʜᴇ ᴅᴇᴀᴅʟɪɴᴇꜱ.⏱️
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -32,6 +32,6 @@ Loves to take up new projects and challenge myself to meet the deadlines.
           
 </div>
 
-### :fire: My Stats :
+### :fire: 𝐌𝐲 𝐒𝐭𝐚𝐭𝐬 :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReemMDA99&theme=dark)](https://git.io/streak-stats)
